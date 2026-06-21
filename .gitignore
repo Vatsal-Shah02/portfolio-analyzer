@@ -220,3 +220,5 @@ __marimo__/
 # Data Excels are not commited to repo.
 data/raw/*.xlsx
 data/processed/*.xlsx
+data/raw/*.csv
+data/processed/*.csv
